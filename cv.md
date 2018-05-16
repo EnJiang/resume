@@ -19,7 +19,7 @@
 
 # 项目和作品
 
-## 项目经验
+## 开源项目
 
  - [anti-captcha for SHU](https://github.com/shuopensourcecommunity/anti-captcha.shuosc.org)：本校验证码的识别接口，准确率98%以上，已实用于校内项目[SHUHelper](https://www.shuhelper.cn/)。
  - [color flood](https://github.com/EnJiang/colorFlood)：自己平常用来钻研算法的项目，在一个NP-Hard的游戏上实现了贪婪、A*等传统算法，尝试了基于强化学习的DQN等，基于Alpha Go的构架也在开发中。
