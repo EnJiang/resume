@@ -8,7 +8,7 @@
 
  - 钟鸣宇/男/1998 
  - 本科/上海大学计算机系 
- - 技术博客：http://science.npa.farbox.com 
+ - 技术博客：http://science.npa.park.bitcron.com/
  - Github：http://github.com/EnJiang
 
  - 期望职位：机器学习/深度学习相关(实习)
