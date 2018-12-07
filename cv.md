@@ -25,14 +25,14 @@
 
  ## 实习经历
  - 2018年暑期 上海科技大学曜科智能CV算法实习生 <br>
-   主要承担了一个目标追踪项目的改进任务，将Faster R-CNN的ROI Pooling层整合进已有的追踪模型，达到实时追踪的效果。
+   主要承担了一个目标追踪项目的改进任务，将Fast R-CNN的ROI Pooling层整合进已有的追踪模型，达到实时追踪的效果。
 
 ## 论文与文章
 - [(译文)面向机器学习新手的MNIST教程](http://science.npa.park.bitcron.com/post/tensorflow/-yi-wen-mian-xiang-ji-qi-xue-xi-xin-shou-de-mnistjiao-cheng)
-- [重复发表现象研究——以CNKI宏观经济管理领域为例](http://www.cjstp.cn/cjstp/ch/reader/view_abstract.aspx?file_no=201711010905&flag=1) CCSCI期刊(中文社科顶刊) 和我校图情档合作的项目，主要负责python爬虫和数据分析
-- [Chinese Lyrics Generation Using Long Short-Term Memory Neural Network](https://link.springer.com/chapter/10.1007/978-3-319-60045-1_43) *IEA/AIE 2017* Published
-- Small Bowel Motility Assessment based on Attentive Network *KDD2018* Applied
-- [有关Flood-it!游戏的解](http://science.npa.park.bitcron.com/post/ri-chang-shi-yan/you-guan-flood-it!you-xi-de-jie)
+- [重复发表现象研究——以CNKI宏观经济管理领域为例](http://www.cjstp.cn/cjstp/ch/reader/view_abstract.aspx?file_no=201711010905&flag=1) CCSCI期刊(中文顶刊) 和我校图情档合作的项目，主要负责python爬虫和数据分析，百万级数据分析
+- [Chinese Lyrics Generation Using Long Short-Term Memory Neural Network](https://link.springer.com/chapter/10.1007/978-3-319-60045-1_43) *IEA/AIE 2017* Published 自然语言方向
+- Small Bowel Motility Assessment based on Attentive Network *KDD2018* Applied 计算机图像方向
+- [有关Flood-it!游戏的解](http://science.npa.park.bitcron.com/post/ri-chang-shi-yan/you-guan-flood-it!you-xi-de-jie) 强化学习方向
 
 ## 演讲和讲义
 - 上大开源社区内部分享：[An intuition of machine learning](https://github.com/EnJiang/resume/blob/master/An%20intuition%20of%20machine%20learning.pdf) 主要给大一新生讲ML概念，谈了梯度下降、感知机等。[代码](https://github.com/EnJiang/resume/blob/master/An%20intuition%20of%20machine%20learning.rar)基于matlab。
